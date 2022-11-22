@@ -1,0 +1,23 @@
+img{
+    width: 160px;
+    height: 140px;
+}
+
+.input{
+    border: 1px solid #04081f;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.button{
+    border-radius: 15px;
+}
+ion-grid{
+    margin: 0;
+    position: absolute;
+    width: 95%;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
